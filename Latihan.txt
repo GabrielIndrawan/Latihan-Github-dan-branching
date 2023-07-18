@@ -1,0 +1,2 @@
+Ini adalah Latihan GitHub dan Branching
+-Ini merupakan Commit pertama
